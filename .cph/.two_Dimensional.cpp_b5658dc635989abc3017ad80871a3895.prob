@@ -1,0 +1,1 @@
+{"name":"Local: two_Dimensional","url":"e:\\DSA with C++\\C++\\C++\\two_Dimensional.cpp","tests":[{"id":1704026446753,"input":"5 3\n1 2 3\n4 5 6 \n7 8 9\n10 11 12\n1 5 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DSA with C++\\C++\\C++\\two_Dimensional.cpp","group":"local","local":true}
